@@ -1,0 +1,1 @@
+Welcome to Dr Frederick Wong Consulting. All repos here are related to my personal consulting work (and hence almost all of them are private repos). Please let me know how I can help. Thanks for stopping by.
