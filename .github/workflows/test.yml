@@ -1,9 +1,0 @@
-name: blah
-on:
-  workflow_dispatch:
-jobs:
-  blah:
-    runs-on: ubuntu-latest
-    steps:
-      - name: blah blah
-        run: echo 'blah'
